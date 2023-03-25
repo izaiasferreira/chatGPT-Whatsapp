@@ -1,5 +1,7 @@
 # chatGPT-Whatsapp
 
+Se você não baixou o app, baixe neste link antes de continuar o passo a passo: [Baixe clicando aqui](https://drive.google.com/drive/folders/1W3szF2EwVmDucH-1VQaA0iGTHT3DXPTL?usp=share_link)
+
 1. Acesse a sua conta da OpenAI através deste link https://platform.openai.com/
 
 2. Faça o login ou crie a sua conta caso você não tenha uma.
